@@ -6,4 +6,5 @@ public class MyClass {
     int a;
 
     dnfgngfngfn
+    sjgdsjdsj
 }
